@@ -5,9 +5,9 @@ A portfolio of work can showcase your skills and talents to employers looking to
 With these points in mind, in this Challenge you’ll set yourself up for future success by applying the core skills you've recently learned: flexbox, media queries, and CSS variables. You'll get to practice your new skills while creating something that you'll use during your job search. It’s a win-win that you'll likely be grateful for in the future!
 
 ## User Story
-*AS AN employer
-I WANT to view a potential employee's deployed portfolio of work samples
-SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
+AS AN employer<br/>
+I WANT to view a potential employee's deployed portfolio of work samples<br/>
+SO THAT I can review samples of their work and assess whether they're a good candidate for an open position</br>
 
 ## Acceptance Criteria 
 * GIVEN I need to sample a potential employee's previous work
