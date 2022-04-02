@@ -8,21 +8,33 @@ header {
     padding: 20px 35px;
     background-color: #d1aa80;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     flex-wrap: wrap;
     top: 0;
-    background-image: url(../images/background.jpg);
+    background-image: url(../images/background2.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-position: 80%;
 
 }
+
 header h1{
     color: #49995e; 
     font-weight: bolder;
     font-size: 40px;
     margin: 0%;
 }
+
+header a {
+    text-decoration:underline;
+    color: #49995e;
+}
+
+header nav {
+    margin: 10px 0;
+    float: right;
+}
+
 
 header nav ul{
     display: flex;
@@ -31,8 +43,39 @@ header nav ul{
     align-items: flex-end;
     list-style: none;
 }
-header ul li {
+header nav ul li a {
     color: #49995e;
     border-radius: 20px;
-    text-shadow: #d1aa80;
+    text-shadow:0 0 10px;
+    font-weight: bold;
+    font-size: 1.55vw;
+}
+
+header nav ul li a:hover {
+    background-color: rgba(222, 189, 203);
+    color: #49995e;
+    border-radius: 15px;
+    text-shadow: 15%;
+
+}
+
+footer {
+    background-image: url(../images/background2.jpg);
+    background-size: cover;
+    width:100%;
+    padding: 40px 35;
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap;
+}
+
+footer h2 {
+    color: #49995e;
+    font-size: 25px;
+    margin: 0;
+}
+
+footer div {
+    line-height: 1.5;
+    text-align: center;
 }
