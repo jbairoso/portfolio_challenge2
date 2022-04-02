@@ -119,3 +119,38 @@ footer div {
 .intro h2 p {
     padding-top: 10%;
 }
+
+.contact-info{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    border: 2px solid #DECBBD;
+    background-color: #d1aa80; 
+    border-radius: 15px;
+}
+    
+.contact-info h3 {
+    color: #49995e;
+    font-style: italic;
+    border-bottom: 2px solid #DECBBD;
+}
+
+
+.contact-info h3 p {
+    color: white;
+    font-weight: bold;
+    display: flex-end;
+    margin: 20px 0;
+    font-size: 16px;
+    line-height: 1.5; 
+}
+
+p{
+    color: white;
+    font-weight: bold;
+}
+
+div.contact-info{
+    justify-content: center;
+    flex-direction: column;
+}
