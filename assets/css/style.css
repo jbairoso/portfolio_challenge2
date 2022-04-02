@@ -35,7 +35,6 @@ header nav {
     float: right;
 }
 
-
 header nav ul{
     display: flex;
     flex-wrap: wrap;
@@ -78,4 +77,45 @@ footer h2 {
 footer div {
     line-height: 1.5;
     text-align: center;
+}
+
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    border: 4px solid #DECBBD;
+    background-color: #d1aa80; 
+    border-radius: 15px;
+}
+
+.hero img {
+    width: 20%;
+    display:flex;
+    flex-wrap: wrap;
+    box-shadow: 0 0 10px ;
+    border-radius: 15px;
+    padding: 5px;
+    background-color: #DECBBD;
+}
+
+.intro {
+    border-radius: 15px;
+    text-align: center;
+    border: 3px solid #DECBBD;
+    padding: 20px;
+    color: white;
+    width: 35%;
+    margin: 3.5%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.intro h2 {
+    color: white;
+    text-align: center;
+    border-bottom: 3px #49995e solid;
+}
+
+.intro h2 p {
+    padding-top: 10%;
 }
