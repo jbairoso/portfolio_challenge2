@@ -34,3 +34,9 @@ Follow these steps to complete the challenge:
 3.Reach out to your instructional support team throughout the week for help.
 
 4.Follow submission instructions.
+
+
+## Link to my portfolio
+https://jbairoso.github.io/portfolio_challenge2/
+
+![image](https://user-images.githubusercontent.com/101310232/161437090-bdec49ec-3b31-4646-ad41-639cf814cc1d.png)
