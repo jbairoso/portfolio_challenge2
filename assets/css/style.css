@@ -205,6 +205,10 @@ article.project img{
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
+article.project img:hover{
+    filter: blur(5px);
+}
+
 .project {
     flex-wrap: wrap;
 }
